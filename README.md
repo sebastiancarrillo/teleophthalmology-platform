@@ -14,15 +14,17 @@ This platform supports remote ophthalmic evaluation through web-based applicatio
 - Debugged production issues and improved system functionality.
 - Supported long-term maintenance and deployment of the platform.
 
-## Technologies
+## Technologies Used
 
 - PHP
 - JavaScript
-- HTML
-- CSS
+- HTML5
+- CSS3
 - SQL
-- Relational databases
+- Relational database systems
 - Linux
+- Web application development
+- Database design and management
 
 ## Project Status
 
